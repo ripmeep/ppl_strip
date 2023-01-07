@@ -2,7 +2,7 @@
 A Windows 10/11 (Version Release ID 2009) PPL stripper
 
 # Concept
-Newer versions of Windows 10 & 11 (Release ID 2009) by default add a layer of protection to the `lsass.exe` process called PPL.
+Newer versions of Windows 10 & 11 by default add a layer of protection to the `lsass.exe` process called PPL.
 PPL's primary objective is to stop untrusted/foreign processes from accessing a protected process, meaning the process' memory is also protected and any intrusive method such as this will be prevented... Which is annoying for hackers trying to dump lsass.
 This doesn't just apply to `lsass.exe` - you can see which processes on Windows have PPL enabled from the following registry path:
 
