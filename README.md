@@ -103,7 +103,7 @@ Service being automatically created by DLL:
 
 Re-Running the same PoC code:
 
-![image](https://user-images.githubusercontent.com/36815692/211119856-424a84f6-fe0e-414f-8aa6-7015270dd789.png)
+![image](https://user-images.githubusercontent.com/36815692/211121572-e91ffa7f-8f4a-49fc-9179-6d1e56ac15d7.png)
 
 I can now dump `lsass.exe`!
 
